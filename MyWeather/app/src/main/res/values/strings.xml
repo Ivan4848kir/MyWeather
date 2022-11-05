@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="logo">Weather in your location</string>
+    <string name="hint_user_field">Location</string>
+    <string name="main_btn">Refresh</string>
+    <string name="no_user_input">Enter the city</string>
+    <string name="Mashido">Mashido inc</string>
+</resources>
